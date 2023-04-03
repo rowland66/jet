@@ -1,4 +1,4 @@
-module github.com/go-jet/jet/v2
+module github.com/rowland66/jet/v2
 
 go 1.11
 
